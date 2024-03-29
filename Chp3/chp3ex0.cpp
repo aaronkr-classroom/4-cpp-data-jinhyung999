@@ -47,4 +47,4 @@ int main() {
 		<< setprecision(prec) << endl; 
 
 	return 0;
-} // main 끝
+ // main 끝
